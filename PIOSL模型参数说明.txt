@@ -1,0 +1,7 @@
+main is the main program, and there are 8 input parameters, namely N1, N2, Cab, Cw, Cm, Cab12, Cw12, Cm12, which represent the structural parameters of the first and second layers of leaves, chlorophyll content, equivalent water thickness, dry matter content, chlorophyll distribution ratio in the two layers of leaves, equivalent water thickness distribution ratio in leaves, and dry matter content distribution ratio in the two layers of leaves. 
+The ranges of N1 and N2 are (1, 3); 
+The range of Cab is (0-100); 
+Cw ranges from (0.004-0.04); 
+The range of Cm is (0.0019-0.0165); 
+The range of Cab12, Cw12 and Cm12 is (0, 1). 
+R is the output 400-2500 nm reflectance spectrum at 5 nm intervals.

@@ -1,0 +1,12 @@
+clear all;
+clc;
+N1=2;
+N2=0.5;
+Cab=50;
+Cw=0.0122;
+Cm=0.0055;
+Cab12=0.8;
+Cw12=0.8;
+Cm12=0.5;
+R = piosl(N1,N2,Cab,Cw,Cm,Cab12,Cw12,Cm12);
+plot(R);
